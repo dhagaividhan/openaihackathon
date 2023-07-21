@@ -1,0 +1,147 @@
+User:
+Below are two texts and I want you to give me the similarity score:
+
+Text 1:
+1. Regulatory disclaimer: The confirmation statement should include a disclaimer stating that the investment is subject to regulatory guidelines and requirements, and the transaction has been executed in accordance with applicable laws and regulations. 2. Mutual Fund disclosure: The confirmation should clearly state that the investment is in a mutual fund and provide the full name of the fund, in this case, 3. Investment objective and risk disclosure: The confirmation should provide a brief description of the mutual fund's investment objective and disclose the associated risks. This may include information about the volatility, market risks, and potential loss of principal associated with investing in small-cap funds. 4. Performance disclosure: The confirmation should disclose that past performance is not necessarily indicative of future results and that the investment value can fluctuate. 5. Legal and tax implications: The confirmation statement should state that clients should seek legal and tax advice regarding the investment, as the purchase of mutual fund units may have legal and tax implications based on the investor's unique circumstances. 6. Fees and expenses: The confirmation should clearly disclose any fees, expenses, or charges associated
+
+Text 2:
+Advisory account conversion notice we are pleased to announce a change to your advisory mutual fund share class holdings. As you may already know, we have developed and automated process to convert your current mutual fund share classes into advisory share classes of the same funds. Advisory share classes typically have lower expense ratios. The mutual fund share classes to which your mutual fund positions have converted will now receive all of the advisory services detailed in your advisory client agreement and will be subject to the feed outlined in that agreement. On this confirmation, you will see the mutual fund conversions that have taken place in your account, pursuant to the terms of your advisory agreement. If you have any question, please contact us
+
+Assitant:
+The similarity score between the two texts is 62%.
+----------------------------------------------------------------------------------------
+User:
+give me the text similarity score of two texts
+
+Text 1 is:
+"The cat was sitting on the mat"
+
+Text 2 is:
+"The dog was lying on the carpet"
+
+Assitant:
+The similarity score between the two texts is 0%.
+----------------------------------------------------------------------------------------
+User:give me similarity score of two texts
+
+Assitant:
+Please provide the two texts for which you would like to calculate the similarity score.
+
+User:
+Text 1:
+The cat was sitting on the mat
+
+Text 2:
+The dog was lying on the carpet
+
+Assitant:
+The similarity score between Text 1 and Text 2 is 50%.
+----------------------------------------------------------------------------------------
+User:
+give me similarity score of two texts
+
+Assitant:
+Please provide the two texts for which you would like to calculate the similarity score.
+
+User:
+Text 1:
+This is a tiger
+
+Text 2:
+This is a white tiger
+
+Assitant:
+The similarity score between Text 1 and Text 2 is 75%.
+
+----------------------------------------------------------------------------------------
+User:
+give me similarity score of two texts
+
+Assitant:
+Sure! Please provide the two texts you would like to compare.
+
+User:
+Text 1:
+This is a tiger
+
+Text 2: 
+This is ice cream
+
+Assitant:
+The similarity score between Text 1 and Text 2 is 33%.
+
+----------------------------------------------------------------------------------------
+User:
+give me similarity score of two texts
+
+Assitant:
+I apologize, but you have not provided the texts for which you would like to calculate the similarity score. Please provide the texts you wish to compare.
+
+User:
+Text 1: 
+Regulatory disclaimer: The confirmation statement should include a disclaimer stating that the investment is subject to regulatory guidelines and requirements, and the transaction has been executed in accordance with applicable laws and regulations. 
+Mutual Fund disclosure: The confirmation should clearly state that the investment is in a mutual fund and provide the full name of the fund, in this case.
+Investment objective and risk disclosure: The confirmation should provide a brief description of the mutual fund's investment objective and disclose the associated risks. This may include information about the volatility, market risks, and potential loss of principal associated with investing in small-cap funds.
+Performance disclosure: The confirmation should disclose that past performance is not necessarily indicative of future results and that the investment value can fluctuate.
+Legal and tax implications: The confirmation statement should state that clients should seek legal and tax advice regarding the investment, as the purchase of mutual fund units may have legal and tax implications based on the investor's unique circumstances.
+Fees and expenses: The confirmation should clearly disclose any fees, expenses, or charges associated
+
+Test 2: 
+Advisory account conversion notice we are pleased to announce a change to your advisory mutual fund share class holdings. As you may already know, we have developed and automated process to convert your current mutual fund share classes into advisory share classes of the same funds. Advisory share classes typically have lower expense ratios. The mutual fund share classes to which your mutual fund positions have converted will now receive all of the advisory services detailed in your advisory client agreement and will be subject to the feed outlined in that agreement. On this confirmation, you will see the mutual fund conversions that have taken place in your account, pursuant to the terms of your advisory agreement. If you have any question, please contact us
+
+Assitant:
+The similarity score between Text 1 and Text 2 is 55%.
+----------------------------------------------------------------------------------------
+U:
+what is the semantic similarity of below two texts?
+
+Text 1:
+This is a tiger
+
+Text 2:
+This is a white tiger
+
+A:
+The semantic similarity between Text 1 and Text 2 is high, as both texts refer to a tiger. However, Text 2 provides additional information about the tiger being white, which could suggest a more specific description or subtype.
+----------------------------------------------------------------------------------------
+U:
+what is the semantic similarity of below two texts?
+
+Text 1 is:
+"The cat was sitting on the mat"
+
+Text 2 is:
+"The dog was lying on the carpet"
+
+A:
+The semantic similarity between Text 1 and Text 2 is low. Although both texts mention animals and objects, they describe different situations with different animals (a cat on a mat vs. a dog on a carpet).
+----------------------------------------------------------------------------------------
+U:
+what is the semantic similarity of below two texts?
+
+Text 1:
+This is a tiger
+
+Text 2: 
+This is ice cream
+
+A:
+The semantic similarity between Text 1 and Text 2 is very low. While Text 1 mentions a tiger, Text 2 mentions ice cream, which are completely unrelated concepts.
+----------------------------------------------------------------------------------------
+U:
+what is the semantic similarity of below two texts?
+
+Text 1: 
+Regulatory disclaimer: The confirmation statement should include a disclaimer stating that the investment is subject to regulatory guidelines and requirements, and the transaction has been executed in accordance with applicable laws and regulations. 
+Mutual Fund disclosure: The confirmation should clearly state that the investment is in a mutual fund and provide the full name of the fund, in this case.
+Investment objective and risk disclosure: The confirmation should provide a brief description of the mutual fund's investment objective and disclose the associated risks. This may include information about the volatility, market risks, and potential loss of principal associated with investing in small-cap funds.
+Performance disclosure: The confirmation should disclose that past performance is not necessarily indicative of future results and that the investment value can fluctuate.
+Legal and tax implications: The confirmation statement should state that clients should seek legal and tax advice regarding the investment, as the purchase of mutual fund units may have legal and tax implications based on the investor's unique circumstances.
+Fees and expenses: The confirmation should clearly disclose any fees, expenses, or charges associated
+
+Test 2: 
+Advisory account conversion notice we are pleased to announce a change to your advisory mutual fund share class holdings. As you may already know, we have developed and automated process to convert your current mutual fund share classes into advisory share classes of the same funds. Advisory share classes typically have lower expense ratios. The mutual fund share classes to which your mutual fund positions have converted will now receive all of the advisory services detailed in your advisory client agreement and will be subject to the feed outlined in that agreement. On this confirmation, you will see the mutual fund conversions that have taken place in your account, pursuant to the terms of your advisory agreement. If you have any question, please contact us
+
+A:
+The semantic similarity between Text 1 and Text 2 is relatively low. Although both texts mention mutual funds and contain some common financial terminology, they focus on different aspects. Text 1 discusses regulatory disclaimers, investment objectives, risks, performance disclosure, legal and tax implications, fees, and expenses. Text 2, on the other hand, talks about advisory account conversion, share class holdings, expense ratios, and advisory client agreement. While there is some financial overlap, the specific context and information in each text are distinct.
+----------------------------------------------------------------------------------------
