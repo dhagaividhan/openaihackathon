@@ -1,6 +1,6 @@
 import openai, numpy as np, os
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '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'
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 disc1="1. Regulatory disclaimer: The confirmation statement should include a disclaimer stating that the investment is subject to regulatory guidelines and requirements, and the transaction has been executed in accordance with applicable laws and regulations. " \
@@ -27,18 +27,35 @@ disc3="Conversion Terms and Conditions: Details about the specific terms and con
       "Past Performance: Historical performance data of both the source fund (the fund you are converting from) and the destination fund, as well as the usual disclaimer that past" \
       "performance does not guarantee future results. Regulatory and Legal Information: Disclosures about the compliance with relevant laws and regulations."
 
+disc4="This is a tiger"
+disc5="This is a white tiger"
+disc6="This is ice cream"
+
+
 resp = openai.Embedding.create(
-    input=[disc1, disc2, disc3],
+    input=[disc1, disc2, disc3, disc4, disc5, disc6],
     engine="text-similarity-davinci-001")
 
 embedding_a = resp['data'][0]['embedding']
 embedding_b = resp['data'][1]['embedding']
 embedding_c = resp['data'][2]['embedding']
 
+embedding_4 = resp['data'][3]['embedding']
+embedding_5 = resp['data'][4]['embedding']
+embedding_6 = resp['data'][5]['embedding']
+
 similarity_score_ab = np.dot(embedding_a, embedding_b)
 similarity_score_cb = np.dot(embedding_c, embedding_b)
+
+similarity_score_45 = np.dot(embedding_4, embedding_5)
+similarity_score_56 = np.dot(embedding_5, embedding_6)
 print("similarity score of disc1 and disc2: " + str(similarity_score_ab))
 print("similarity score of disc3 and disc2: " + str(similarity_score_cb))
+print("similarity score of disc4 and disc5: " + str(similarity_score_45))
+print("similarity score of disc5 and disc6: " + str(similarity_score_56))
 
-#similarity score of disc1 and disc2: 0.7331801313683288
-#similarity score of disc3 and disc2: 0.7704865640846361
+
+# similarity score of disc1 and disc2: 0.7331801313683288
+# similarity score of disc3 and disc2: 0.7688344944027007
+# similarity score of disc4 and disc5: 0.9182141025423186
+# similarity score of disc5 and disc6: 0.7316247822950129
