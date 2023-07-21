@@ -31,9 +31,12 @@ disc4="This is a tiger"
 disc5="This is a white tiger"
 disc6="This is ice cream"
 
+disc7="The cat was sitting on the mat"
+disc8="the dog was lying on the carpet"
+
 
 resp = openai.Embedding.create(
-    input=[disc1, disc2, disc3, disc4, disc5, disc6],
+    input=[disc1, disc2, disc3, disc4, disc5, disc6, disc7, disc8],
     engine="text-similarity-davinci-001")
 
 embedding_a = resp['data'][0]['embedding']
@@ -44,18 +47,28 @@ embedding_4 = resp['data'][3]['embedding']
 embedding_5 = resp['data'][4]['embedding']
 embedding_6 = resp['data'][5]['embedding']
 
+embedding_7 = resp['data'][6]['embedding']
+embedding_8 = resp['data'][7]['embedding']
+
 similarity_score_ab = np.dot(embedding_a, embedding_b)
 similarity_score_cb = np.dot(embedding_c, embedding_b)
 
 similarity_score_45 = np.dot(embedding_4, embedding_5)
+similarity_score_46 = np.dot(embedding_4, embedding_6)
 similarity_score_56 = np.dot(embedding_5, embedding_6)
-print("similarity score of disc1 and disc2: " + str(similarity_score_ab))
-print("similarity score of disc3 and disc2: " + str(similarity_score_cb))
-print("similarity score of disc4 and disc5: " + str(similarity_score_45))
-print("similarity score of disc5 and disc6: " + str(similarity_score_56))
 
+similarity_score_78 = np.dot(embedding_7, embedding_8)
 
-# similarity score of disc1 and disc2: 0.7331801313683288
-# similarity score of disc3 and disc2: 0.7688344944027007
-# similarity score of disc4 and disc5: 0.9182141025423186
-# similarity score of disc5 and disc6: 0.7316247822950129
+print("similarity score of disc1 and disc2:  " + str(similarity_score_ab))
+print("similarity score of disc3 and disc2:  " + str(similarity_score_cb))
+print("similarity score of disc4 and disc5:  " + str(similarity_score_45))
+print("similarity score of disc4 and disc6:  " + str(similarity_score_46))
+print("similarity score of disc5 and disc6:  " + str(similarity_score_56))
+print("similarity score of disc7 and disc8:  " + str(similarity_score_78))
+
+# similarity score of disc1 and disc2:  0.7325133128994863
+# similarity score of disc3 and disc2:  0.7703988621769202
+# similarity score of disc4 and disc5:  0.9186791142269097
+# similarity score of disc4 and disc6:  0.763693086519767
+# similarity score of disc5 and disc6:  0.7323594063791783
+# similarity score of disc7 and disc8:  0.8290229384980459
