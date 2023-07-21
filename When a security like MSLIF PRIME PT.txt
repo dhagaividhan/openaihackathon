@@ -1,3 +1,7 @@
+Prompt:
+what should be the disclosures printed in a brokerage trade confirmation document, when this security MSLIF PRIME PTF INST is bought? 
+
+Assitant:
 When a security like MSLIF PRIME PTF INST is bought through a brokerage, the trade confirmation document should typically include the following disclosures:
 
 1. Security Description: Clearly state the name of the security, MSLIF PRIME PTF INST, along with any relevant identification numbers or symbols.
