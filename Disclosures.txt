@@ -11,7 +11,7 @@ information to all offshore investors, to advise that there is a key investor in
 offshore (non-us domiciled) investment companies regulated as undertaking for collective investments in transferable securities (UCITs).
 The KIID contains essential information and key facts about a UCITS fund aimed at helping investors make informed investment
 decisions about whether the fund meets their needs. Please read the KIID carefully before you invest. You can access a repository of
-KIID documents at the following location www.morganstanley.com/offshoremutualfunds/kiidrepository. For UCITS mutual funds and the following web location https://www.morganstanley.com/disclaimers/etfkiidrepository
+KIID documents at the following location www.companyabc.com/offshoremutualfunds/kiidrepository. For UCITS mutual funds and the following web location https://www.companyabc.com/disclaimers/etfkiidrepository
 For UCITS exchange-traded funds. For further information about the fund, please refer to the fund's prospectus.
 
 Security Description: AMERICAN INC FD OF AMERICA A
@@ -25,7 +25,7 @@ undertaking for collective investments in transferable securities (UCITs).
 The KIID contains essential information and key facts about a UCITS fund aimed at helping investors make informed
 investment decisions about whether the fund meets their needs. Please read the KIID carefully before you invest. You can
 access a repository of KIID documents at the following location
-www.morganstanley.com/offshoremutualfunds/kiidrepository. For UCITS mutual funds and the following web location https://www.morganstanley.com/disclaimers/etfkiidrepository
+www.companyabc.com/offshoremutualfunds/kiidrepository. For UCITS mutual funds and the following web location https://www.companyabc.com/disclaimers/etfkiidrepository
 For UCITS exchange-traded funds. For further information about the fund, please refer to the fund's prospectus.
 
 Security Description: AMERICAN CAP WORLD BOND C
@@ -69,5 +69,5 @@ UIT sponsors or their affiliates, with regard to UITs or other investment produc
 Company ABC also provides unaffiliated UIT sponsors or their affiliates with the opportunity to purchase sales data analytics.
 The concessions, expense payments and data analytics fees described above present a conflict of interest for Company ABC and our Financial Advisors because they could lead our Financial Advisors to focus on UITs from those sponsors that provide significant concessions, resources to sales and training activities and/or purchase sales data analytics instead of UITs from sponsors that do not.
 To mitigate these conflicts, Financial Advisors and their branch office managers do not receive additional compensation for recommending UITs from sponsors that provide such support.
-For additional information on a UIT's compensation practices and fees and expenses, please see the UIT's prospectus. For more information regarding UITs and how Company ABC and your Financial Advisor are compensated when you purchase UITS, see the disclosure entitled "Unit Investment Trusts Features, Costs and Compensation" at our website http://www.morganstanley.com/assets/pdfs/wealth-management-disclosures/uit_features.pdf or by calling
+For additional information on a UIT's compensation practices and fees and expenses, please see the UIT's prospectus. For more information regarding UITs and how Company ABC and your Financial Advisor are compensated when you purchase UITS, see the disclosure entitled "Unit Investment Trusts Features, Costs and Compensation" at our website http://www.companyabc.com/assets/pdfs/wealth-management-disclosures/uit_features.pdf or by calling
 your Financial Advisor.
