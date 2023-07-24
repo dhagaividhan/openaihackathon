@@ -1,6 +1,6 @@
 import openai, numpy as np, os
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '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'
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 disc1="1. Regulatory disclaimer: The confirmation statement should include a disclaimer stating that the investment is subject to regulatory guidelines and requirements, and the transaction has been executed in accordance with applicable laws and regulations. " \
@@ -65,10 +65,3 @@ print("similarity score of disc4 and disc5:  " + str(similarity_score_45))
 print("similarity score of disc4 and disc6:  " + str(similarity_score_46))
 print("similarity score of disc5 and disc6:  " + str(similarity_score_56))
 print("similarity score of disc7 and disc8:  " + str(similarity_score_78))
-
-# similarity score of disc1 and disc2:  0.7325133128994863
-# similarity score of disc3 and disc2:  0.7703988621769202
-# similarity score of disc4 and disc5:  0.9186791142269097
-# similarity score of disc4 and disc6:  0.763693086519767
-# similarity score of disc5 and disc6:  0.7323594063791783
-# similarity score of disc7 and disc8:  0.8290229384980459

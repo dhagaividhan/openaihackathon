@@ -1,0 +1,73 @@
+Security Descriptions and their Actual Disclosures or Disclaimer:
+
+Sample Disclosures for Mutual Funds are below:
+Security Description: WESTERN ASSET INST LIQ RES C1
+Disclosures or Disclaimer:
+Forward Priced Mutual Fund:
+The price and share totals shown above reflect the price received for the trade date. Due to market operating hour differences, the trade
+date may be after the date your order was placed with us for certain funds. Contact us for additional
+information. We are providing
+information to all offshore investors, to advise that there is a key investor information document (KIID) available for each fund offered by
+offshore (non-us domiciled) investment companies regulated as undertaking for collective investments in transferable securities (UCITs).
+The KIID contains essential information and key facts about a UCITS fund aimed at helping investors make informed investment
+decisions about whether the fund meets their needs. Please read the KIID carefully before you invest. You can access a repository of
+KIID documents at the following location www.morganstanley.com/offshoremutualfunds/kiidrepository. For UCITS mutual funds and the following web location https://www.morganstanley.com/disclaimers/etfkiidrepository
+For UCITS exchange-traded funds. For further information about the fund, please refer to the fund's prospectus.
+
+Security Description: AMERICAN INC FD OF AMERICA A
+Disclosures or Disclaimer:
+Forward Priced Mutual Fund:
+The price and share totals shown above reflect the price received for the trade date. Due to market operating hour
+differences, the trade date may be after the date your order was placed with us for certain funds. Contact us for additional
+information. We are providing information to all offshore investors, to advise that there is a key investor information
+document (KIID) available for each fund offered by offshore (non-us domiciled) investment companies regulated as
+undertaking for collective investments in transferable securities (UCITs).
+The KIID contains essential information and key facts about a UCITS fund aimed at helping investors make informed
+investment decisions about whether the fund meets their needs. Please read the KIID carefully before you invest. You can
+access a repository of KIID documents at the following location
+www.morganstanley.com/offshoremutualfunds/kiidrepository. For UCITS mutual funds and the following web location https://www.morganstanley.com/disclaimers/etfkiidrepository
+For UCITS exchange-traded funds. For further information about the fund, please refer to the fund's prospectus.
+
+Security Description: AMERICAN CAP WORLD BOND C
+Disclosures or Disclaimer: Addt'l Share Class Information:
+A single mutual fund usually offers different share classes to meet investor preference and needs. Each share class
+represents an investment in the same mutual fund portfolio but provides a different option for how and when to pay for
+fund distribution costs. The key distinctions among share classes are the sales charges and ongoing fees and expenses.
+Morgan Stanley employs an order entry share class selection calculator designed to select the least costly share class
+option. The size of your investment and your anticipated holding period are the principal variables. Investors generally
+should purchase class A shares (the front-end sales charge alternative) or class A equivalent shares if they expect to hold
+the investment over the long-term (typically five years or more) or are investing larger amounts where breakpoints may
+apply that reduce the front-end charges. Class C shares have level ongoing sales charges that are built into the funds'
+internal expense structures and (due to the amounts of the ongoing sales charges) are generally appropriate for
+shorter-term holding periods.
+The share class(es) of the mutual fund(s) you purchased were selected based upon your current purchase amount,
+existing fund family holdings and the investment time horizon you provided. Since your investment time horizon may be
+uncertain at the time of purchase or change over time, the share class selected may not be the lowest cost over the actual life of the investment.
+The investment time horizon(s) provided at the time of the purchase(s) is shown above. If you feel
+that the investment time horizon is Incorrect, please contact us as this could impact the share class selection. More
+information on share classes is available on our website at the address noted below
+
+Sample Disclosures for Fixed Income are below:
+Security Description: JPMORGAN CHASE & CO FXD TO 102024 VAR THRAFTR 6.1000%
+Disclosures or Disclaimer:  Your account will be charged $15.00 this month for 2 additional copy(ies) of this confirmation sent to other parties Execution time: 06:49:59(et).
+For more information about this security (including trade and price history),visit:https://bondfacts.finra.org/48126HAC4 Callable preferred stock - additional information available upon request.
+Perpetual maturity. Additional information available upon request. For U.S. Tax purposes, the net amount will be treated as gross proceeds from the sale and no portion of the purchase price will be treated as a dividend for tax purposes.
+Subject to conditional call features. Feel free to contact us for additional information.
+
+Security Description: CHARLES SCHWAB CORP/THE FXD TO 062025
+Disclosures or Disclaimer:  Fixed income securities (bonds) are traded over the counter (OTC) and not through an exchange like equity securities.
+The firm's mark-up or mark-down on your transaction is measured from the "prevailing market price" for the fixed income security.
+The prevailing market price is determined by application of a series of factors prescribed by industry regulators (FINRA and MSRB) and may not be the same as the firm's cost of sourcing, or its proceeds from selling, the security.
+As such, industry participants may come to different determinations concerning the prevailing market price of any given fixed income security at any point in time.
+In addition, the mark-up or mark-down is not necessarily the same as the firm's profit or loss on the transaction, which may be impacted by a number of other factors, such as out-of-pocket costs, namely regulatory fees and hedging costs, and intervening market movements, among others factors, that do not impact the prevailing market price and/or the calculated mark-up or mark-down.
+The firm has engaged a third party vendor to calculate the prevailing market price in accordance with FINRA and MSRB rules.
+
+Sample Disclosures for UIT are below:
+Security Description: UNIT AAM BUILDING AMERICA 23-1
+Disclosures or Disclaimer:  In addition to the dealer concessions and any sales volume-based concessions described in applicable UIT prospectuses, Morgan Stanley receives additional amounts from UIT sponsors for the following. UIT sponsors or their affiliates are generally granted access to branch offices and Financial Advisors for educational, marketing and other promotional efforts.
+UIT sponsors or their affiliates, with regard to UITs or other investment products offered through Morgan Stanley, make payments to Morgan Stanley in connection with these promotional efforts to reimburse us for expenses incurred for various sales meetings, client seminars and conferences. Some UIT sponsors or their affiliates also invite our Financial Advisors to attend events.
+Morgan Stanley also provides unaffiliated UIT sponsors or their affiliates with the opportunity to purchase sales data analytics.
+The concessions, expense payments and data analytics fees described above present a conflict of interest for Morgan Stanley and our Financial Advisors because they could lead our Financial Advisors to focus on UITs from those sponsors that provide significant concessions, resources to sales and training activities and/or purchase sales data analytics instead of UITs from sponsors that do not.
+To mitigate these conflicts, Financial Advisors and their branch office managers do not receive additional compensation for recommending UITs from sponsors that provide such support.
+For additional information on a UIT's compensation practices and fees and expenses, please see the UIT's prospectus. For more information regarding UITs and how Morgan Stanley and your Financial Advisor are compensated when you purchase UITS, see the disclosure entitled "Unit Investment Trusts Features, Costs and Compensation" at our website http://www.morganstanley.com/assets/pdfs/wealth-management-disclosures/uit_features.pdf or by calling
+your Financial Advisor.
