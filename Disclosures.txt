@@ -33,7 +33,7 @@ Disclosures or Disclaimer: Addt'l Share Class Information:
 A single mutual fund usually offers different share classes to meet investor preference and needs. Each share class
 represents an investment in the same mutual fund portfolio but provides a different option for how and when to pay for
 fund distribution costs. The key distinctions among share classes are the sales charges and ongoing fees and expenses.
-Morgan Stanley employs an order entry share class selection calculator designed to select the least costly share class
+Company ABC employs an order entry share class selection calculator designed to select the least costly share class
 option. The size of your investment and your anticipated holding period are the principal variables. Investors generally
 should purchase class A shares (the front-end sales charge alternative) or class A equivalent shares if they expect to hold
 the investment over the long-term (typically five years or more) or are investing larger amounts where breakpoints may
@@ -64,10 +64,10 @@ The firm has engaged a third party vendor to calculate the prevailing market pri
 
 Sample Disclosures for UIT are below:
 Security Description: UNIT AAM BUILDING AMERICA 23-1
-Disclosures or Disclaimer:  In addition to the dealer concessions and any sales volume-based concessions described in applicable UIT prospectuses, Morgan Stanley receives additional amounts from UIT sponsors for the following. UIT sponsors or their affiliates are generally granted access to branch offices and Financial Advisors for educational, marketing and other promotional efforts.
-UIT sponsors or their affiliates, with regard to UITs or other investment products offered through Morgan Stanley, make payments to Morgan Stanley in connection with these promotional efforts to reimburse us for expenses incurred for various sales meetings, client seminars and conferences. Some UIT sponsors or their affiliates also invite our Financial Advisors to attend events.
-Morgan Stanley also provides unaffiliated UIT sponsors or their affiliates with the opportunity to purchase sales data analytics.
-The concessions, expense payments and data analytics fees described above present a conflict of interest for Morgan Stanley and our Financial Advisors because they could lead our Financial Advisors to focus on UITs from those sponsors that provide significant concessions, resources to sales and training activities and/or purchase sales data analytics instead of UITs from sponsors that do not.
+Disclosures or Disclaimer:  In addition to the dealer concessions and any sales volume-based concessions described in applicable UIT prospectuses, Company ABC receives additional amounts from UIT sponsors for the following. UIT sponsors or their affiliates are generally granted access to branch offices and Financial Advisors for educational, marketing and other promotional efforts.
+UIT sponsors or their affiliates, with regard to UITs or other investment products offered through Company ABC, make payments to Company ABC in connection with these promotional efforts to reimburse us for expenses incurred for various sales meetings, client seminars and conferences. Some UIT sponsors or their affiliates also invite our Financial Advisors to attend events.
+Company ABC also provides unaffiliated UIT sponsors or their affiliates with the opportunity to purchase sales data analytics.
+The concessions, expense payments and data analytics fees described above present a conflict of interest for Company ABC and our Financial Advisors because they could lead our Financial Advisors to focus on UITs from those sponsors that provide significant concessions, resources to sales and training activities and/or purchase sales data analytics instead of UITs from sponsors that do not.
 To mitigate these conflicts, Financial Advisors and their branch office managers do not receive additional compensation for recommending UITs from sponsors that provide such support.
-For additional information on a UIT's compensation practices and fees and expenses, please see the UIT's prospectus. For more information regarding UITs and how Morgan Stanley and your Financial Advisor are compensated when you purchase UITS, see the disclosure entitled "Unit Investment Trusts Features, Costs and Compensation" at our website http://www.morganstanley.com/assets/pdfs/wealth-management-disclosures/uit_features.pdf or by calling
+For additional information on a UIT's compensation practices and fees and expenses, please see the UIT's prospectus. For more information regarding UITs and how Company ABC and your Financial Advisor are compensated when you purchase UITS, see the disclosure entitled "Unit Investment Trusts Features, Costs and Compensation" at our website http://www.morganstanley.com/assets/pdfs/wealth-management-disclosures/uit_features.pdf or by calling
 your Financial Advisor.
