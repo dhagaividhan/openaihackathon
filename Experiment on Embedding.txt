@@ -85,3 +85,30 @@ tant to note that payments, including cash dividends, in local currency will gen
 
 If you are investing in local currency bonds, it is important to understand that the total return in USD terms will be influenced by the performance of the local currency against the U
 SD during the holding period. Please consult your financial advisor for the specific foreign exchange rate applied to your transaction. Payments of interest and principal in local currency will typically need to be converted to USD for most accounts. For more detailed information on this process, please ask your financial advisor for further clarification.
+
+----------------------------------------------------------------------------
+
+Give some sample disclosures in paragraphs format, related to an investment product known as 'ETF'?
+
+Summary from just your docs:::::::::::::: 
+• ETF investors are exposed to the risk that the market price of ETF shares will not be equivalent to the daily net asset value of the ETF's shares. ETFs may trade at a discount or premium to NAV. Purchasing an ETF at a premium to NAV and/or selling an ETF at a discount to NAV could significantly affect the realized return earned by an investor.
+• Financial Advisors and their branch managers do not receive additional compensation because of the revenue sharing and data analytics payments received by Morgan Stanley.
+• Morgan Stanley provides all ETF sponsors with the opportunity to purchase data analytics regarding ETF sales. For ETF sponsors electing to purchase such data, the fee depends on the level of data and ranges up to $600,000 per year.
+• For further information about the fund, please refer to the fund's prospectus.
+
+Summary from our docs and GPT::::::::::::::
+1. Please be aware that investing in ETFs carries certain risks. One of these risks is that the market price of ETF shares may not be equivalent to the daily net asset value of the ETF
+'s shares. This means that ETFs may trade at a discount or premium to their NAV. It is important to note that purchasing an ETF at a premium to NAV or selling an ETF at a discount to N
+AV could significantly impact your realized return as an investor. This realized return may differ substantially from the return of the ETF and the index it aims to track. It is possible for premiums/discounts to NAV to occur at any time, and significant premiums/discounts have occurred in the past and may occur in the future.
+
+2. As a firm, we have a conflict of interest when it comes to ETFs. Our focus is primarily on ETFs whose sponsors provide significant sales expense support and/or purchase data analyti
+cs. This means that we may prioritize these ETFs over those from sponsors that do not provide such support. However, it is important to note that our Financial Advisors and branch mana
+gers do not receive additional compensation based on the revenue sharing and data analytics payments received by Morgan Stanley. If you would like more information about a specific ETF
+, please refer to the ETF's prospectus and statement of additional information. You can also find further details about revenue sharing, expense payments, and data analytics fees on our website or by contacting us directly.
+
+3. In addition, we would like to disclose that Morgan Stanley offers all ETF sponsors the opportunity to purchase data analytics regarding ETF sales. The fee for accessing this data de
+pends on the level of data and can range up to $600,000 per year for ETF sponsors. We believe that providing this data can enhance our understanding of ETFs and ultimately benefit our clients. If you have any questions or would like more information about this service, please feel free to reach out to us.
+
+4. Lastly, please note that for UCITS exchange-traded funds, it is recommended to refer to the fund's prospectus for further information. The prospectus contains important details about the fund's objectives, risks, and fees. It is essential to review this document before making any investment decisions related to UCITS ETFs.
+
+Please keep in mind that these disclosures are only examples and may not cover all the relevant information for every specific ETF. It is crucial to thoroughly review the prospectus and seek professional advice before investing in any ETF.
