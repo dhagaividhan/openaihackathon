@@ -32,3 +32,8 @@ similarity_score_ab = np.dot(embedding_a, embedding_b)
 similarity_score_ac = np.dot(embedding_a, embedding_c)
 print("similarity score of disc1 and disc2:  " + str(similarity_score_ab))
 print("similarity score of disc1 and disc3:  " + str(similarity_score_ac))
+
+
+#results:
+#similarity score of disc1 and disc2:  0.8017511650561803
+#similarity score of disc1 and disc3:  0.6942643823999228
