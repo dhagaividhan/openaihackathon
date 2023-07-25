@@ -36,3 +36,30 @@ Further Information: For more detailed information regarding revenue sharing, co
 can visit the following links: http://www.morganstanley.com/assets/pdfs/wealth-management-disclosures/mf_share_classes.pdf and http://www.morganstanley.com/wealth/disclosures/pdfs/reve
 nue_sharing.pdf. Alternatively, you can reach out to your sales representative for further clarification. Please note that if you have invested in any of these funds in a different typ
 e of account, such as a brokerage account, you may not receive the same materials and status updates on the funds as we provide to investment advisory clients, including instructions on selling fund shares.
+
+-----------------------------------------------------------------
+
+Give some sample disclosures in paragraphs format, related to an investment product known as 'Fixed Income'?
+
+Summary from just your docs:::::::::::::: 
+• Venezuela Investment Risk: On August 25, 2017, the President signed an executive order imposing sanctions on the Venezuelan government that ban U.S. Persons, including U.S. Regulated
+ Financial Institutions, from transacting in most outstanding debt securities and most new debt and equity securities, issued by the Republic of Venezuela and entities owned or control
+led by it. The U.S. Treasury department subsequently authorized transactions in specified outstanding debt securities to continue. However, there can be no assurance that transactions 
+in these securities will continue to be permissible. In addition, certain bonds are in default, Trading in restructured or new debt will be impermissible unless specifically authorized by the U.S. Treasury department. As a result, these securities may be subject to greater volatility and liquidity risk.
+• Mark-up / Mark-down: Fixed income securities (bonds) are traded over the counter (OTC) and not through an exchange like equity securities. The firm's mark-up or mark-down on your tra
+nsaction is measured from the prevailing market price for the fixed income security. The prevailing market price is determined by application of a series of factors prescribed by industry regulators (FINRA and MSRB) and may not be the same as the firm's cost of
+
+Summary from our docs and GPT::::::::::::::
+1. Venezuela Investment Risk: On August 25, 2017, the President signed an executive order imposing sanctions on the Venezuelan government that ban U.S. Persons, including U.S. Regulate
+d Financial Institutions, from transacting in most outstanding debt securities and most new debt and equity securities, issued by the Republic of Venezuela and entities owned or contro
+lled by it. The U.S. Treasury department subsequently authorized transactions in specified outstanding debt securities to continue. However, there can be no assurance that transactions
+ in these securities will continue to be permissible. In addition, certain bonds are in default, Trading in restructured or new debt will be impermissible unless specifically authorized by the U.S. Treasury department. As a result, these securities may be subject to heightened investment risk.
+
+2. Mark-up / Mark-down: Fixed income securities (bonds) are traded over the counter (OTC) and not through an exchange like equity securities. The firm's mark-up or mark-down on your tr
+ansaction is measured from the prevailing market price for the fixed income security. The prevailing market price is determined by application of a series of factors prescribed by indu
+stry regulators (FINRA and MSRB) and may not be the same as the firm's cost of sourcing, or its proceeds from selling, the security. As such, industry participants may come to differen
+t determinations concerning the prevailing market price of any given fixed income security at any point in time. In addition, the mark-up or mark-down is not necessarily the same as th
+e firm's profit or loss on the transaction, which may be impacted by a number of other factors, such as out-of-pocket costs, namely regulatory fees and hedging costs, and intervening market movements, among other factors, that do not impact the prevailing market price.
+
+Please note that these disclosures are for illustrative purposes only and may not necessarily reflect the actual disclosures provided in trade confirmations or trade confirmation docum
+ents for fixed income investments. It is important to review the specific disclosures provided by your financial institution or investment advisor for accurate and up-to-date information.
