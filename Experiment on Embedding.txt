@@ -64,3 +64,22 @@ e firm's profit or loss on the transaction, which may be impacted by a number of
 
 Please note that these disclosures are for illustrative purposes only and may not necessarily reflect the actual disclosures provided in trade confirmations or trade confirmation docum
 ents for fixed income investments. It is important to review the specific disclosures provided by your financial institution or investment advisor for accurate and up-to-date information.
+
+---------------------------------------------------------------------------
+
+Give some sample disclosures in paragraphs format, related to an investment product known as 'Foreign Exchange'?
+
+Summary from just your docs:::::::::::::: 
+In some instances, settlement of Foreign Exchange (FX) trades may be delayed due to foreign bank holidays. The quantity of the trade above equals the foreign currency equivalent of the
+ principal. A tax or fee may be imposed by a foreign jurisdiction and is included in the price. A foreign securities clearing fee (FSCF) may also be included in the price. Please conta
+ct us for the foreign exchange rate applied to this transaction. We and our affiliates may profit from the bid/offer spread reflected in the spot rate(s) used to effect any related currency conversion(s). Payments, including cash dividends, in local currency generally must be converted to USD for most accounts. Feel free to contact us for more information.
+
+Summary from our docs and GPT::::::::::::::
+Please note that settlement of foreign exchange transactions may be delayed due to foreign bank holidays. The quantity specified above represents the foreign currency equivalent of the
+ principal amount. Additionally, there may be taxes or fees imposed by foreign jurisdictions, which are included in the price. Please be aware that a foreign securities clearing fee may also be applicable. Please consult your financial advisor for more information on these fees.
+
+When conducting foreign exchange transactions, please be aware that the bid/offer spread reflected in the spot rate(s) used may result in profits for us and our affiliates. It is impor
+tant to note that payments, including cash dividends, in local currency will generally need to be converted to USD for most accounts. For the applicable foreign exchange rate for your transaction, please feel free to contact us for assistance.
+
+If you are investing in local currency bonds, it is important to understand that the total return in USD terms will be influenced by the performance of the local currency against the U
+SD during the holding period. Please consult your financial advisor for the specific foreign exchange rate applied to your transaction. Payments of interest and principal in local currency will typically need to be converted to USD for most accounts. For more detailed information on this process, please ask your financial advisor for further clarification.
