@@ -1,3 +1,4 @@
+https://www.sbert.net/docs/pretrained_models.html
 -----------------------------------------------------------------
 python langchainTxtData.py "Give me summarized disclosures related to the investment product known as 'Mutual Fund'?"
 
