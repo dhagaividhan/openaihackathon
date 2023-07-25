@@ -18,12 +18,14 @@ However, Financial Advisors and Branch Managers do not receive additional compen
 python langchainTxtData.py "Give some sample disclosures in paragraphs format, related to an investment product known as 'Mutual Fund'?"
 
 Give some sample disclosures in paragraphs format, related to an investment product known as 'Mutual Fund'?
+
 Summary from just your docs:::::::::::::: 
 1. Mutual funds are subject to annual distribution, investment management and/or shareholder service fees and expenses disclosed in the fund prospectus fee table.
 2. Financial Advisors and their Branch Managers do not receive additional compensation as a result of payments received by Morgan Stanley.
 3. Revenue sharing presents a conflict of interest for Morgan Stanley and our Financial Advisors.
 4. Further information regarding revenue sharing, conflicts, the fund fees and expenses borne by investors, and how sales representatives are compensated is available online or by calling a sales representative.
 5. Investment advisory clients receive materials and status updates on the funds, including instructions on selling fund shares.
+
 Summary from our docs and GPT::::::::::::::
 Additional or Generic Disclosures: The revenue sharing, expense payments, and administrative service fees described above present a conflict of interest for Morgan Stanley and our Fina
 ncial Advisors. This means that our Financial Advisors may have an incentive to focus on fund families with the largest client fund share holdings at our firm when recommending mutual 
