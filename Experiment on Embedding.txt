@@ -1,0 +1,16 @@
+
+python langchainTxtData.py "Give me summarized disclosures related to the investment product known as 'Mutual Fund'?"
+
+Summary from just your docs:::::::::::::: 
+Morgan Stanley and its Financial Advisors receive revenue sharing, expense payments, and administrative service fees from the fund families wi
+th the largest client fund share holdings. Financial Advisors and their Branch Managers do not receive additional compensation as a result of these payments. 
+Mutual fund investments are subject to annual distribution, investment management, and/or 
+shareholder service fees and expenses disclosed in the fund prospectus fee table. 
+All or a portion of these 12b-1 fees are generally paid to Financial Advisors.
+
+Summary from our docs and GPT::::::::::::::
+The revenue sharing, expense payments, and administrative service fees for mutual funds present a conflict of interest for Morgan Stanley and its Financial Advisors. 
+They receive significantly more from the fund families with the largest client fund share holdings at the firm. 
+However, Financial Advisors and Branch Managers do not receive additional compensation as a result of these payments.
+
+python langchainTxtData.py "Give some sample disclosures in paragraphs format, related to an investment product known as 'Mutual Fund'?"
