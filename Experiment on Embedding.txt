@@ -1,4 +1,4 @@
-
+-----------------------------------------------------------------
 python langchainTxtData.py "Give me summarized disclosures related to the investment product known as 'Mutual Fund'?"
 
 Summary from just your docs:::::::::::::: 
@@ -13,4 +13,26 @@ The revenue sharing, expense payments, and administrative service fees for mutua
 They receive significantly more from the fund families with the largest client fund share holdings at the firm. 
 However, Financial Advisors and Branch Managers do not receive additional compensation as a result of these payments.
 
+-----------------------------------------------------------------
 python langchainTxtData.py "Give some sample disclosures in paragraphs format, related to an investment product known as 'Mutual Fund'?"
+
+Give some sample disclosures in paragraphs format, related to an investment product known as 'Mutual Fund'?
+Summary from just your docs:::::::::::::: 
+1. Mutual funds are subject to annual distribution, investment management and/or shareholder service fees and expenses disclosed in the fund prospectus fee table.
+2. Financial Advisors and their Branch Managers do not receive additional compensation as a result of payments received by Morgan Stanley.
+3. Revenue sharing presents a conflict of interest for Morgan Stanley and our Financial Advisors.
+4. Further information regarding revenue sharing, conflicts, the fund fees and expenses borne by investors, and how sales representatives are compensated is available online or by calling a sales representative.
+5. Investment advisory clients receive materials and status updates on the funds, including instructions on selling fund shares.
+Summary from our docs and GPT::::::::::::::
+Additional or Generic Disclosures: The revenue sharing, expense payments, and administrative service fees described above present a conflict of interest for Morgan Stanley and our Fina
+ncial Advisors. This means that our Financial Advisors may have an incentive to focus on fund families with the largest client fund share holdings at our firm when recommending mutual 
+fund investments. However, to mitigate this conflict, Financial Advisors and their Branch Managers do not receive additional compensation as a result of these payments received by Morgan Stanley.
+
+Important Remuneration Note: When investing in mutual funds, investors may incur sales charges and/or contingent sales charges. In addition to these charges, funds are also subject to 
+annual distribution, investment management, and/or shareholder service fees and expenses as disclosed in the fund prospectus fee table. These fees, also known as 12b-1 fees, typically 
+range from 0.25% (class A shares) up to 1.0% (class C shares) of the average net asset value of the fund. It's important to note that a portion of these 12b-1 fees are generally paid to our Financial Advisors.
+
+Further Information: For more detailed information regarding revenue sharing, conflicts, the fund fees and expenses borne by you, and how your sales representative is compensated, you 
+can visit the following links: http://www.morganstanley.com/assets/pdfs/wealth-management-disclosures/mf_share_classes.pdf and http://www.morganstanley.com/wealth/disclosures/pdfs/reve
+nue_sharing.pdf. Alternatively, you can reach out to your sales representative for further clarification. Please note that if you have invested in any of these funds in a different typ
+e of account, such as a brokerage account, you may not receive the same materials and status updates on the funds as we provide to investment advisory clients, including instructions on selling fund shares.
